@@ -36,8 +36,8 @@ b=54
 x = a + b
 y = x - b 
 x = x - y 
-print(x)
-print(y)
+print('a:',x)
+print('a:',y)
 
 
 
