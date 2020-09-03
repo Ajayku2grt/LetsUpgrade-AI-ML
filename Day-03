@@ -37,7 +37,7 @@ x = a + b
 y = x - b 
 x = x - y 
 print('a:',x)
-print('a:',y)
+print('b:',y)
 
 
 
