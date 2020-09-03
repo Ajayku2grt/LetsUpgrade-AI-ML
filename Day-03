@@ -19,12 +19,11 @@ print(rt)
 Question 3
 Write a program to swap two numbers in Python with the help of a temporary variable.
 
-a=input('Enter the number:')
-b=input('Enter the number:')
+a=input('Enter a value:')
+b=input('Enter b value:')
+c=a,b=b,a
 print('a:',a)
 print('b:',b)
-c=a,b=b,a
-print(c)
 
 Question 4
 Write a program to swap two numbers in Python without using a temporary variable.
