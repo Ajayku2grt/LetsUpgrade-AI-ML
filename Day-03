@@ -73,3 +73,6 @@ print('e:',type(e))
 
 f = {"name" : "Zac", "age" : 36}
 print('f:',type(f))
+
+type('Life')
+>> o/p == str
